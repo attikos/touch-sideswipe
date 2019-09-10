@@ -1,0 +1,26 @@
+{
+  "name": "touch-sideswipe",
+  "version": "0.3.1",
+  "description": "Touch side swipe - widget-library for mobile navbar (vanilla js and little bit pure css).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/attikos/touch-sideswipe.git"
+  },
+  "keywords": [
+    "mobile",
+    "touch",
+    "slide",
+    "sidemenu",
+    "swipe"
+  ],
+  "author": "freetitelu@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/freetitelu/touch-sideswipe/issues"
+  },
+  "homepage": "https://github.com/attikos/touch-sideswipe#readme"
+}
